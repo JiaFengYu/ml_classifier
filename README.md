@@ -1,4 +1,5 @@
-Simple classifiers using the Extra Trees classifier and k-NN algorithm.
+Simple training a classifier using the Extra Trees classifier and k-NN algorithm on various data sets and then testing its accuracy by printing the confusion matrix.
+
 
 
 Further improvements: use a tensorflow neural net model as classifier
